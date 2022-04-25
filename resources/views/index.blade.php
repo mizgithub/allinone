@@ -65,7 +65,7 @@
 <!-- intro section -->
 <section id="intro" class="section intro">
   <div class="container">
-    <div class="col-md-9">
+    <div class="col-md-8">
       <h3><u>NEED OUR EXPERTISE ?</u></h3>
       <ul>
           <li><h4>Artifical Intelligent</h4></li>
@@ -73,15 +73,17 @@
           <li><h4>Web app developement</h4></li>
       </ul>
     </div>
-	<div class="col-md-3">
+	<div class="col-md-4">
 	<a class="btn btn4" href="#contact">
 		  <i class="fa fa-arrow-right g-color-primary mr-2"></i>
 		  Contact us
 	</a>
-    <a class="btn btn4" href="tel:+251909879898">
-		  <i class="fa fa-phone g-color-primary mr-2"></i>
-		  Give as a Call: +251909879898
-	</a>
+   
+    <h4>
+		  <i class="fa fa-envelope g-color-primary mr-2"></i>
+		  allinonehub.et@gmail.com
+    </h4>
+
 	</div>
   </div>
 </section>
@@ -357,131 +359,23 @@
   </div>
 </section>
 <!-- our team section --> 
-<section id="pricing5" data-section="pricing-5" class="data-section">
-    <div class="container">
-          <div class="section-header">
-                <h2 class="wow fadeInDown animated">Pricing</h2>
-                <p class="wow fadeInDown animated">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>
-            </div>
-         <div class="row">
-            <div class="col-md-3 col-md-offset-1">
-                <div class="table">
-                    <h3 class="editContent">Basic</h3>
-                    <h2 class="editContent">$13</h2>
-                    <p class="editContent">Per Month</p>
-                    <ul class="table-content">
-                        <li class="editContent"><i class="fa fa-hdd-o"></i> 10 GB Storage</li>
-                        <li class="editContent"><i class="fa fa-pie-chart"></i> 500 GB Bandwidth</li>
-                        <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
-                        <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
-                    </ul>
 
-                    <div class="text-center text-uppercase">
-                        <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-4">
-                <div class="table long-table">
-                    <h3 class="editContent">Premium</h3>
-                    <h2 class="editContent">$23</h2>
-                    <p class="editContent">Per Month</p>
-                    <ul class="table-content">
-                        <li class="editContent"><i class="fa fa-hdd-o"></i> 10 GB Storage</li>
-                        <li class="editContent"><i class="fa fa-pie-chart"></i> 500 GB Bandwidth</li>
-                        <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
-                        <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
-                    </ul>
-
-                    <div class="text-center text-uppercase">
-                        <a href="#" class="btn btn-default-blue-tiny editContent">Signup Now</a>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="col-md-3">
-                <div class="table">
-                    <h3 class="editContent">Developer</h3>
-                    <h2 class="editContent">$33</h2>
-                    <p class="editContent">Per Month</p>
-                    <ul class="table-content">
-                        <li class="editContent"><i class="fa fa-hdd-o"></i> 10 GB Storage</li>
-                        <li class="editContent"><i class="fa fa-pie-chart"></i> 500 GB Bandwidth</li>
-                        <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
-                        <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
-                    </ul>
-
-                    <div class="text-center text-uppercase">
-                        <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
-                    </div>
-                </div>
-
-            </div>
-         </div>
-    </div>
-</section>
-<!-- Testimonials section -->
-<section id="testimonials" class="section testimonials no-padding">
-  <div class="container-fluid">
-    <div class="row no-gutter">
-      <div class="flexslider">
-        <ul class="slides">
-          <li>
-            <div class="col-md-12">
-              <blockquote>
-                <h1>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa 
-semper aliquam quis mattis consectetur adipiscing elit.." </h1>
-                <p>Chris Mentsl</p>
-              </blockquote>
-            </div>
-          </li>
-          <li>
-            <div class="col-md-12">
-              <blockquote>
-                <h1>"Praesent eget risus vitae massa Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa 
-semper aliquam quis mattis consectetur adipiscing elit.." </h1>
-                <p>Kristean velnly</p>
-              </blockquote>
-            </div>
-          </li>
-          <li>
-            <div class="col-md-12">
-              <blockquote>
-                <h1>"Consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa 
-semper aliquam quis mattis consectetur adipiscing elit.." </h1>
-                <p>Markus Denny</p>
-              </blockquote>
-            </div>
-          </li>
-          <li>
-            <div class="col-md-12">
-              <blockquote>
-                <h1>"Vitae massa semper aliquam Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa 
-semper aliquam quis mattis consectetur adipiscing elit.." </h1>
-                <p>John Doe</p>
-              </blockquote>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- Testimonials section --> 
+<hr class="hr-fade">
 
 <!-- contact section -->
 <section id="contact" class="section">
   <div class="container">
       <div class="section-header">
                 <h2 class="wow fadeInDown animated">Contact Us</h2>
-                <p class="wow fadeInDown animated">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>
+                <p class="wow fadeInDown animated">
+                  For all of your enqueries please send as email
+                  <h2>allinonehub.et@gmail.com</h2>
+                </p>
             </div>
     <div class="row">
       <div class="col-md-8 col-md-offset-2 conForm">       
         <div id="message"></div>
-        <form method="post" action="php/contact.php" name="cform" id="cform">
+        <form method="post" action="mailto:allinonehub.et@gmial.com" name="cform" id="cform"  enctype="text/plain"> 
           <input name="name" id="name" type="text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Your name..." >
           <input name="email" id="email" type="email" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="Email Address..." >
           <textarea name="comments" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Message..."></textarea>
@@ -498,21 +392,18 @@ semper aliquam quis mattis consectetur adipiscing elit.." </h1>
 <div class="container-fluid">
 <div id="map-row" class="row">
     <div class="col-sm-8">    
-    	<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?f=q&source=s_q&hl=en&geocode=&q=15+Springfield+Way,+Hythe,+CT21+5SH&aq=t&sll=52.8382,-2.327815&sspn=8.047465,13.666992&ie=UTF8&hq=&hnear=15+Springfield+Way,+Hythe+CT21+5SH,+United+Kingdom&t=m&z=14&ll=51.077429,1.121722&output=embed"></iframe> 
-       
+    <div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=jimma&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://2piratebay.org"></a><br><style>.mapouter{position:relative;text-align:right;height:406px;width:100%;}</style><a href="https://www.embedgooglemap.net">embedgooglemap.net</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:406px;width:100%;}</style></div></div> 
     </div>
 	 <div class="col-sm-4">
 			<h2>Contact us</h2>
     		<address>
-    			<strong>Company name</strong><br>
-    			1234 Street Dr.<br>
-    			Vancouver, BC<br>
-    			Canada<br>
-    			V6G 1G9<br>
-    			<abbr title="Phone">Tel:</abbr> (604) 555-4321
+    			<strong>All In One Tech Hub</strong><br>
+    		
+    			<abbr title="Phone">Tel:</abbr> +251909879898<br>
+          <abbr title="Email address">Email:</abbr> allinonehub.et@gmail.com
     		</address>
-			  © 2018 Company Name. Template by <a href="http://webthemez.com" title="Bootstrap Themes" target="_blank" >WebThemez.com</a>.<br/>
-			  Find more <a href="http://webthemez.com/free-bootstrap-templates" title="Bootstrap Templates" target="_blank" >Bootstrap Templates</a>
+			  ©2022 All In One |Tech hub.
+        <br><br><br><br>
 	 </div>
 	 </div>
 </div>
