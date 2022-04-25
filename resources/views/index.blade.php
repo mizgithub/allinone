@@ -369,7 +369,7 @@
                 <h2 class="wow fadeInDown animated">Contact Us</h2>
                 <p class="wow fadeInDown animated">
                   For all of your enqueries please send as email
-                  <h2>allinonehub.et@gmail.com</h2>
+                  <h4>allinonehub.et@gmail.com</h4>
                 </p>
             </div>
     <div class="row">
