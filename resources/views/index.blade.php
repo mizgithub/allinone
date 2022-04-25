@@ -50,10 +50,10 @@
             </div>
             <div data-lazy-background="images/slides/2.jpg"> 
                 <h3 data-pos="['68%', '-40%', '58%', '12%']" data-duration="700" data-effect="move">
-                    Developement
+                    development
                 </h3> <br>
                 <p data-pos="['75%', '110%', '75%', '12%']" data-duration="700" data-effect="move">
-                    Userfriendly system developement for companies 
+                    Userfriendly system development for companies 
                 </p>
             </div>
              
@@ -69,8 +69,8 @@
       <h3><u>NEED OUR EXPERTISE ?</u></h3>
       <ul>
           <li><h4>Artifical Intelligent</h4></li>
-          <li><h4>Mobile app developement</h4></li>
-          <li><h4>Web app developement</h4></li>
+          <li><h4>Mobile app development</h4></li>
+          <li><h4>Web app development</h4></li>
       </ul>
     </div>
 	<div class="col-md-4">
@@ -106,11 +106,11 @@
       <div class="col-md-4 col-sm-6 services text-center">
         <img src="images/ai_icon.png" alt="" style="width:20%;display:inline" class="icon">
         <div class="services-content">
-          <h5>AI system developement</h5>
+          <h5>AI system development</h5>
           <ol style='list-style-type:disc'>
           <li>Text and image processing, analysis and classification techniques</li>
           <li>Machine learning and deep learning techniques and envirnoments</li>
-          <li>Prototype system developement</li>
+          <li>Prototype system development</li>
           </ol>
           <img src="images/open_cv.png" alt="" style="padding-left:5px;width:30%;display:inline" class="">
           <img src="images/keras.png" alt="" style="padding-left:5px;width:40%;display:inline" class="">
@@ -121,10 +121,10 @@
       <div class="col-md-4 col-sm-6 services text-center">
       <img src="images/mobile_app.webp" alt="" style="width:20%;display:inline" class="icon">
         <div class="services-content">
-          <h5>Mobile application developement</h5>
+          <h5>Mobile application development</h5>
           <ol style='list-style-type:disc'>
-          <li>Mobile application developement using Native android</li>
-          <li>Cross platform mobile application developement using Flutter</li>
+          <li>Mobile application development using Native android</li>
+          <li>Cross platform mobile application development using Flutter</li>
           </ol>
           <br>
           <img src="images/android_icon.png" alt="" style="padding-left:5px;width:30%;display:inline" class="">
@@ -136,12 +136,12 @@
       <div class="col-md-4 col-sm-6 services text-center">
       <img src="images/web_app.png" alt="" style="padding-left:5px;width:15%;display:inline" class="icon">
         <div class="services-content">
-          <h5>Web application developement</h5>
+          <h5>Web application development</h5>
           <ol style='list-style-type:disc'>
-              <li> Web application developement using plain PHP</li>
-              <li>Web application developement using Laravel framework</li>
-              <li>Web application developement using Django framework</li>
-              <li>Web application developement using ASP.NET</li>
+              <li> Web application development using plain PHP</li>
+              <li>Web application development using Laravel framework</li>
+              <li>Web application development using Django framework</li>
+              <li>Web application development using ASP.NET</li>
         </ol>
           <img src="images/laravel_icon.png" alt="" style="padding-left:5px;width:40%;display:inline" class="">
           <img src="images/django_icon.png" alt="" style="padding-left:5px;width:40%;display:inline" class="">
@@ -155,30 +155,30 @@
     <hr class="hr-fade">
     
         <div>
-            <h2>Application developement</h2>
+            <h2>Application development</h2>
         </div>
     <br>
     <div class="row">
     <div class="col-md-4 col-sm-6 services text-center"> <span class="icon icon-genius"></span>
             <div class="services-content">
-            <h5>AI system developement</h5>
+            <h5>AI system development</h5>
               <ol style="list-style-type:disc">
-                <li>Developement of AI systems for image classification, text analysis using state of the art machine learning and deep learning algorithms</li>
+                <li>Development of AI systems for image classification, text analysis using state of the art machine learning and deep learning algorithms</li>
                 <li>Integrating AI system with web and mobile applications</li>
               </ol>
             </div>
         </div>
         <div class="col-md-4 col-sm-6 services text-center"> <span class="icon icon-anchor"></span>
             <div class="services-content">
-            <h5>Mobile application developement</h5>
+            <h5>Mobile application development</h5>
             <ol style="list-style-type:disc">
-                <li>Developement of Userfriendly cross platform mobile applications based on your specifications</li>
+                <li>Development of Userfriendly cross platform mobile applications based on your specifications</li>
             </ol>
             </div>
         </div>
         <div class="col-md-4 col-sm-6 services text-center"> <span class="icon icon-trophy"></span>
             <div class="services-content">
-            <h5>Web application developement</h5>
+            <h5>Web application development</h5>
             <ol style="list-style-type:disc">
             <li>
               Designning and developing interactive website applications based on your requirements.
