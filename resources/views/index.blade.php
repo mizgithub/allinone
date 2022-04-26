@@ -21,7 +21,9 @@
 <meta property="og:title" content="All in One | Tech Hub">
 <meta property="og:description" content="All in One is a tech consultation and software solution development hub. The hub gives technology services on Artificial intelligence, Mobile and Web application development">
 <meta property="og:image" content="https://allinonehub.herokuapp.com/images/all_in_one_logo.png">
-
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:type" content="image/png" />
 <!-- og graph twitter -->
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
