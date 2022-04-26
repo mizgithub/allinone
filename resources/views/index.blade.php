@@ -8,6 +8,8 @@
 
 <head>
 <meta charset="utf-8">
+
+<link rel="icon" href="images/all_in_one_icon.png" type="image/icon type">
 <meta name="title" content = "All in One | Tech Hub">
 <meta name="description" content="All in One is a tech consultation and software solution developement hub. The hub gives technology services on Artificial intelligence, Mobile and Web application development">
 <meta name="keywords" content="Deep learning, machine learning,Python,HTML, CSS, JavaScript, SQL, PHP, jQuery, Bootstrap, Keras, Tensorflow, Image, Text, OpenCv, Mobile app,Laravel, Django, PHP, Flutter, Android,IOS">
