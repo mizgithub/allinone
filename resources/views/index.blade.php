@@ -11,14 +11,15 @@
 
 <link rel="icon" href="images/all_in_one_icon.png" type="image/icon type">
 <meta name="title" content = "All in One | Tech Hub">
-<meta name="description" content="All in One is a tech consultation and software solution developement hub. The hub gives technology services on Artificial intelligence, Mobile and Web application development">
-<meta name="keywords" content="Deep learning, machine learning,Python,HTML, CSS, JavaScript, SQL, PHP, jQuery, Bootstrap, Keras, Tensorflow, Image, Text, OpenCv, Mobile app,Laravel, Django, PHP, Flutter, Android,IOS">
+<meta name="description" content="All in One is a tech consultation and software solution development hub. The hub gives technology services on Artificial intelligence, Mobile and Web application development">
+<meta name="keywords" content="ICT, consultation,Deep learning, machine learning,Python,HTML, CSS, JavaScript, SQL, PHP, jQuery, Bootstrap, Keras, Tensorflow, Image, Text, OpenCv, Mobile app,Laravel, Django, PHP, Flutter, Android,IOS">
 
 <!-- og grpah facebook -->
+<link rel="canonical" href="https://allinonehub.herokuapp.com">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://allinonehub.herokuapp.com/">
 <meta property="og:title" content="All in One | Tech Hub">
-<meta property="og:description" content="All in One is a tech consultation and software solution developement hub. The hub gives technology services on Artificial intelligence, Mobile and Web application development">
+<meta property="og:description" content="All in One is a tech consultation and software solution development hub. The hub gives technology services on Artificial intelligence, Mobile and Web application development">
 <meta property="og:image" content="https://allinonehub.herokuapp.com/images/all_in_one_logo.png">
 
 <!-- og graph twitter -->
@@ -26,7 +27,7 @@
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://allinonehub.herokuapp.com/">
 <meta property="twitter:title" content="All in One | Tech Hub">
-<meta property="twitter:description" content="All in One is a tech consultation and software solution developement hub. The hub gives technology services on Artificial intelligence, Mobile and Web application development">
+<meta property="twitter:description" content="All in One is a tech consultation and software solution development hub. The hub gives technology services on Artificial intelligence, Mobile and Web application development">
 <meta property="twitter:image" content="https://allinonehub.herokuapp.com/images/all_in_one_logo.png">
 
     
