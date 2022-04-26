@@ -3,12 +3,23 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js" lang="">
+<html class="no-js" lang="en">
 <!--<![endif]-->
 
 <head>
 <meta charset="utf-8">
-<meta name="description" content="">
+<meta name="title" content = "All in One | Tech Hub">
+<meta name="description" content="All in One is a tech consultation and software solution developement hub. The hub gives technology services on Artificial intelligence, Mobile and Web application development">
+<meta name="keywords" content="Deep learning, machine learning,Python,HTML, CSS, JavaScript, SQL, PHP, jQuery, Bootstrap, Keras, Tensorflow, Image, Text, OpenCv, Mobile app,Laravel, Django, PHP, Flutter, Android,IOS">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://allinonehub.herokuapp.com/">
+<meta property="og:title" content="All in One | Tech Hub">
+<meta property="og:description" content="All in One is a tech consultation and software solution developement hub. The hub gives technology services on Artificial intelligence, Mobile and Web application development">
+<meta property="og:image" content="https://allinonehub.herokuapp.com/images/all_in_one_logo.png">
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>All in One | Tech Hub</title>
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -240,7 +251,7 @@
   <div class="container-fluid">
     <div class="section-header">
                 <h2 class="wow fadeInDown animated">Gallery</h2>
-                <p class="wow fadeInDown animated">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>
+                <p class="wow fadeInDown animated"></p>
             </div>
     <div class="row no-gutter">
       <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/01.jpg" class="work-box"> <img src="images/portfolio/01.jpg" alt="">
@@ -374,11 +385,19 @@
             </div>
     <div class="row">
       <div class="col-md-8 col-md-offset-2 conForm">       
-        <div id="message"></div>
-        <form method="post" action="mailto:allinonehub.et@gmial.com" name="cform" id="cform"  enctype="text/plain"> 
+        <div id="message">
+        @if(Session::has('msg'))
+            <div style="background-color:#aaaaff;border:1px solid #ffaaaa;border-radius:30%">
+              <p>{{Session::get('msg')}}</p>
+            </div>
+          @endif
+        </div>
+       
+        <form  action="mailto:allinonehub.et@gmail.com" method="POST" enctype="plain/text">
+          @csrf
           <input name="name" id="name" type="text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Your name..." >
           <input name="email" id="email" type="email" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="Email Address..." >
-          <textarea name="comments" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Message..."></textarea>
+          <textarea name="comment" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Message..." max_length="10"></textarea>
           <input type="submit" id="submit" name="send" class="submitBnt" value="Send">
           <div id="simple-msg"></div>
         </form>
