@@ -431,9 +431,7 @@
 			<h2>Contact us</h2>
     		<address>
     			<strong>All In One Tech Hub</strong><br>
-    		
-    			<abbr title="Phone">Tel:</abbr> +251909879898<br>
-          <abbr title="Email address">Email:</abbr> allinonehub.et@gmail.com
+              <abbr title="Email address">Email:</abbr> allinonehub.et@gmail.com
     		</address>
 			  ©2022 All In One |Tech hub.
         <br><br><br><br>
